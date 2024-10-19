@@ -1,5 +1,5 @@
 
-![CTF Theme](ctf_theme.png)
+![CTF Theme](ctf_theme.png | width=100)
 
 # CTF-Notes
 
