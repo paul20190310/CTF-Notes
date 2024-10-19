@@ -1,3 +1,6 @@
+
+![CTF Theme](ctf_theme.png)
+
 # CTF-Notes
 
 歡迎來到我的CTF筆記，在這我會放上一些來自不同網站我所解過CTF題目的Writeups，以及一些使用到的小工具筆記、攻擊手法筆記等等，供我紀錄及複習之用。
